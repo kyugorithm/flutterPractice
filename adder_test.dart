@@ -82,3 +82,6 @@ class _MyStatefulState extends State<MyStateful> {
     );
   }
 }
+
+
+// Scaffold 클래스는 기본 Material Design visual layout 구조를 구현하는 데 사용되며 기본적으로 범용 모바일 앱을 구성하기에 충분하며 일반적인 앱구성의 기본 프레임으로 사용하기에 편리하다.
