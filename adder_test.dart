@@ -1,4 +1,24 @@
+// 본 코드는 https://dalgonakit.tistory.com/103을 참조하였습니다.
 
+// 1) AppBar
+// 화면 윗부분에 해당
+// Android : TitleBar, iOS :  NavigationBar 로 불리운다고 한다.
+
+// 2) Body
+// 가운데 화면  Text Widget을 추가
+
+// 3) BottomNavigationBar
+// 하단영역 창을 이동할 수 있는 버튼을 추가할 수 있는 영역
+// Android:  Bottom Navigation Bar, iOS : Tab Bar
+// 50 픽셀 만큼 띄운 공간으로 세팅
+
+// 4) FloatingActionButton
+// 창 위에 떠 있는 효과를 주는 버튼
+// Android:  support library FloatingActionButton을 지원
+// iOS : 직접 버튼을 배치해서 사용
+
+// 5) FloatingActionButtonLocation
+// 4번의 FloatingActionButton의 위치를 설정 
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
