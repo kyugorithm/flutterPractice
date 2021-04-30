@@ -1,4 +1,5 @@
-// 본 코드는 https://dalgonakit.tistory.com/103을 참조하였습니다.
+// 본 코드는 https://dalgonakit.tistory.com/103을 참조
+// 기본 내용에서 다양한 옵션을 조절해 보았다.
 
 // 1) AppBar
 // 화면 윗부분에 해당
@@ -19,6 +20,8 @@
 
 // 5) FloatingActionButtonLocation
 // 4번의 FloatingActionButton의 위치를 설정 
+
+
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -42,7 +45,6 @@ class MyStateful extends StatefulWidget {
 
 class _MyStatefulState extends State<MyStateful> {
   int _count = 0;
-  int _color = 100;
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -70,13 +72,11 @@ class _MyStatefulState extends State<MyStateful> {
       floatingActionButton: FloatingActionButton(
         onPressed: ()=> setState((){
           _count++;
-          _color+=100;
           if(_count>10)
             _count = 0;
-          _color = 0;
         }),
         child: Icon(Icons.add),
-        backgroundColor: Colors.grey[_color],
+        backgroundColor: Colors.grey[700],
       ),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
     );
