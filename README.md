@@ -3,10 +3,12 @@
 
 ### [1. 위젯에 대하여][widget]
 
-### [2. 스캐폴드를 이용한 정적인 기본화면 구성하기][widget]
+### [2. 스캐폴드를 이용한 정적인 기본화면 구성하기][page2]
 
-### [3. 스캐폴드를 이용한 정적인 디자인화면 구성하기][widget]
+### [3. 스캐폴드를 이용한 정적인 디자인화면 구성하기][page3]
 ![그림1]
 
 [widget]:<https://github.com/kyugorithm/flutterPractice/blob/main/WhatIsWidget.md>
+[page2] : <https://github.com/kyugorithm/flutterPractice/blob/main/practice1_adder.dart>
+[page3] : <https://github.com/kyugorithm/flutterPractice/blob/main/practice2_characterPage.dart>
 [그림1]:<https://github.com/kyugorithm/flutterPractice/blob/main/Basic%20App%20Screen%20Using%20Scapold%20Composed%20of%20Various%20Designs.png>
