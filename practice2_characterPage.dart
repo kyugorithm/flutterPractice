@@ -1,5 +1,10 @@
 // 참조 : 유튜브채널(코딩셰프) = https://www.youtube.com/watch?v=AdYRASHRKwE&list=PLQt_pzi-LLfpcRFhWMywTePfZ2aPapvyl
-
+// Material의 컴포넌트 (https://material.io/components?platform=flutter)
+// 1. AppBar : 현재 화면에 관련된 내용이나 액션들을 제공한다. 브랜딩, 스크린타이틀, 네비게이션과 액션을 위해 사용된다.
+// 2. Divider : 리스트와 레이아웃으로 내용물을 그룹화하는 얇은 선 : 내용물을 명확한 그룹으로 분리할 수 있다.
+// - 원칙 : 확인 가능하도록 해야하나 너무 눈에 띄진않아야함 / 여백으로 분리할 수 없을 경우에만 사용 / 너무 빈번하게 사용되지 않아야함
+// - 종류 : Full-bleed dividers : 선을 끝에서 끝까지 이어서 분리 / Inset dividers : 원하는 영역만 분리 / middle dividers : 양끝부분 여백 / Dividers with subheaders : subheader를 나누기 사용
+// +@ SizedBox : 상하좌우 위젯간 여백 / 
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
