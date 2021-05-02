@@ -9,7 +9,7 @@
 <img src="https://github.com/kyugorithm/flutterPractice/blob/main/Basic%20App%20Screen%20Using%20Scapold%20Composed%20of%20Various%20Designs.png" width="100" height="200">
 
 ### [4. Drawer 화면 구성해보기][page4]
-<img src="https://github.com/kyugorithm/flutterPractice/blob/main/Basic%20App%20Screen%20Using%20Scapold%20Composed%20of%20Various%20Designs.png" width="100" height="200">
+
 
 
 
