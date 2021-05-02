@@ -6,9 +6,10 @@
 ### [2. 스캐폴드를 이용한 정적인 기본화면 구성하기][page2]
 
 ### [3. 스캐폴드를 이용한 정적인 디자인화면 구성하기][page3]
-![그림1]
+<img src="https://github.com/kyugorithm/flutterPractice/blob/main/Basic%20App%20Screen%20Using%20Scapold%20Composed%20of%20Various%20Designs.png" width="100" height="200">
 
 ### [4. Drawer 화면 구성해보기][page4]
+<img src="https://github.com/kyugorithm/flutterPractice/blob/main/Basic%20App%20Screen%20Using%20Scapold%20Composed%20of%20Various%20Designs.png" width="100" height="200">
 
 
 
