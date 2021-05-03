@@ -10,6 +10,8 @@
 
 ### [4. Drawer 화면 구성해보기][page4]
 
+### [5. Navigator를 이용한 페이지(route) 이동][page4]
+
 
 
 
