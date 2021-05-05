@@ -16,9 +16,11 @@
 <img src="https://github.com/kyugorithm/flutterPractice/blob/main/sources/BuildContext.png?raw=true" width="400" height="300">
 #### etc2. Generics 개념 이해하기
 <img src="https://github.com/kyugorithm/flutterPractice/blob/main/sources/Generics.png?raw=true" width="400" height="300">
+[코딩쉐프님 강의 참조][CODING_CHEF1]
 
 [widget]:<https://github.com/kyugorithm/flutterPractice/blob/main/WhatIsWidget.md>
 [page2]:<https://github.com/kyugorithm/flutterPractice/blob/main/practice1_adder.dart>
 [page3]:<https://github.com/kyugorithm/flutterPractice/blob/main/practice2_characterPage.dart>
 [page4]:<https://github.com/kyugorithm/flutterPractice/blob/main/practice3_drawer.dart>
 [그림1]:<https://github.com/kyugorithm/flutterPractice/blob/main/Basic%20App%20Screen%20Using%20Scapold%20Composed%20of%20Various%20Designs.png>
+[CODING_CHEF1]:<https://www.youtube.com/watch?v=dSysQZrkTlo&list=PLQt_pzi-LLfpcRFhWMywTePfZ2aPapvyl&index=25>
