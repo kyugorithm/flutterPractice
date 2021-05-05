@@ -8,6 +8,12 @@
 // Navigator.push(context, MaterialPageRoute(builder: (context)=>(SecondPage())));
 // Navigator.pop(context);
 // FlatButton은 2.0에서 deprecated 되었기 때문에 ElevatedButton 이용
+// Navigator.push의 2개의 매개변수는 context와 route이다. 여기에서 route는 내가 어떤 경로로 갈것인지를 넣으면 되기때문에 일반적으로 해당 정의 class를 넣으면 될것이라고 생각할 수 있지만
+// // MaterialPageRoute를 이용해야한다. 아래 설명과 같은 기능을 제공한다.
+// MaterialPageRoute는 flutter가 기본으로 제공하는 기능으로 builder를 제공하며 라우팅을 하는 과정에서 안전장치로 사용합니다.
+// MaterialPageRoute는 앱상에서 페이지 이동을 할 때 기본 애니메이션이 제공됩니다.
+// android : 페이지 들어갈 때 fade in, 페이지 나갈 때 fade out
+// ios : 좌우로 움직이면서 페이지 이동
 
 import 'package:flutter/material.dart';
 
