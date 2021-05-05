@@ -12,9 +12,10 @@
 
 ### [5. Navigator를 이용한 페이지(route) 이동][page4]
 
-#### etc1. BuildContext 개념 이해하기[page]
-
+#### etc1. BuildContext 개념 이해하기
 <img src="https://github.com/kyugorithm/flutterPractice/blob/main/sources/BuildContext.png?raw=true" width="400" height="300">
+#### etc2. Generics 개념 이해하기
+<img src="https://github.com/kyugorithm/flutterPractice/blob/main/sources/Generics.png?raw=true" width="400" height="300">
 
 [widget]:<https://github.com/kyugorithm/flutterPractice/blob/main/WhatIsWidget.md>
 [page2]:<https://github.com/kyugorithm/flutterPractice/blob/main/practice1_adder.dart>
