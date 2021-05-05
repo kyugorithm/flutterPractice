@@ -17,6 +17,7 @@
 
 #### etc2. Generics 개념 이해하기
 <img src="https://github.com/kyugorithm/flutterPractice/blob/main/sources/Generics.png?raw=true" width="400" height="300">
+
 [코딩쉐프님 강의 참조][CODING_CHEF1]
 
 [widget]:<https://github.com/kyugorithm/flutterPractice/blob/main/WhatIsWidget.md>
