@@ -12,7 +12,7 @@
 
 ### [5. Navigator를 이용한 페이지(route) 이동][page4]
 
-
+#### etc1. BuildContext 개념 이해하기[page]
 
 
 [widget]:<https://github.com/kyugorithm/flutterPractice/blob/main/WhatIsWidget.md>
