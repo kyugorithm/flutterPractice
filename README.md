@@ -14,6 +14,7 @@
 
 #### etc1. BuildContext 개념 이해하기[page]
 
+<img src="https://github.com/kyugorithm/flutterPractice/blob/main/sources/BuildContext.png?raw=true" width="400" height="300">
 
 [widget]:<https://github.com/kyugorithm/flutterPractice/blob/main/WhatIsWidget.md>
 [page2]:<https://github.com/kyugorithm/flutterPractice/blob/main/practice1_adder.dart>
