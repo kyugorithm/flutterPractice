@@ -1,4 +1,4 @@
-// main.dart
+///////////////////////////////////////////// main.dart /////////////////////////////////////////////
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
@@ -170,7 +170,8 @@ void showSnackBar3(BuildContext context) {
 
 
 
-// dice.dart
+///////////////////////////////////////////// dice.dart /////////////////////////////////////////////
+
 import 'package:flutter/material.dart';
 import 'dart:math';
 // import 'package:fluttertoast/fluttertoast.dart';
